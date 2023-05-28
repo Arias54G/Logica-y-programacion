@@ -1,3 +1,16 @@
+
+print('==============================================')
+print('==           Encontrar número máximo        ==')
+print('==============================================')
+
+
+"""
+Éste programa indica el numero mayor entre a y b
+
+"""
+
+
+
 a=int(input("Escriba un número: "))
 b=int(input("Escriba otro número: "))
 
